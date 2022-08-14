@@ -4,4 +4,4 @@ FORMAÇÃO ACADÊMICA
 - Análise e Desenvolvimento de Sistemas/UNOPAR (2010-2013).
 
 EXPERIÊNCIA PROFISSIONAL
--  (A editar.)
+- (A editar!)
