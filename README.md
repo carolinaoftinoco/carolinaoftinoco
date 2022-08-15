@@ -5,3 +5,4 @@ FORMAÇÃO ACADÊMICA
 
 
 ![Carolina Tinoco](https://github-readme-stats.vercel.app/api?username=carolinaoftinoco&show_icons=true&theme=onedark)
+[![Carolina Tinoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinaoftinoco)](https://github.com/carolinaoftinoco/github-readme-stats)
