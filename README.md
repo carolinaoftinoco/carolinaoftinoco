@@ -7,6 +7,9 @@
 
 [![Carolina Tinoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinaoftinoco)](https://github.com/carolinaoftinoco/github-readme-stats)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinaoftinoco&layout=compact)](https://github.com/carolinaoftinoco/github-readme-stats)
+
+
 ![carolina-hardy](https://user-images.githubusercontent.com/110881696/185729529-866a8bae-74da-4d12-abdf-4a18c48e402d.gif)
 
