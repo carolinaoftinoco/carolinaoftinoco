@@ -1,4 +1,4 @@
-**EDUCAÇÃO - SUPERIOR**
+**EDUCAÇÃO - ENSINO SUPERIOR**
 
 - Análise e Desenvolvimento de Sistemas/UNOPAR (2010-2013);
 - Belas-Artes/UFMG (2003-2009);
