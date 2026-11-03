@@ -1,8 +1,8 @@
 **EDUCAÇÃO - ENSINO SUPERIOR**
 
-- UNOPAR - Análise e Desenvolvimento de Sistemas (2010 - 2013);
-- UFMG - Belas-Artes (2003 - 2009);
-- UFMG - Arquitetura e Urbanismo (2000 - 2003) ~ Incluindo Bolsa de Iniciação Científica em Hermenêutica e Arquitetura [CNPq/FAPEMIG].
+- UNOPAR - Análise e Desenvolvimento de Sistemas (2010-2013);
+- UFMG - Belas-Artes (2003-2009);
+- UFMG - Arquitetura e Urbanismo (2000-2003) ~ Incluindo Bolsa de Iniciação Científica em Hermenêutica e Arquitetura [CNPq/FAPEMIG].
 
 ##
  
